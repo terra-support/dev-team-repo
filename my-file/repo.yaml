@@ -1,0 +1,12 @@
+lient":"github","component":"peribolos","level":"info","msg":"Throttle(300, 100)","time":"2018-08-10T17:42:15-07:00"}
+{"client":"github","component":"peribolos","level":"info","msg":"GetOrg(kubernetes-incubator)","time":"2018-08-10T17:42:15-07:00"}
+{"client":"github","component":"peribolos","level":"info","msg":"ListOrgInvitations(kubernetes-incubator)","time":"2018-08-10T17:42:17-07:00"}
+{"client":"github","component":"peribolos","level":"info","msg":"ListOrgMembers(kubernetes-incubator, admin)","time":"2018-08-10T17:42:17-07:00"}
+{"client":"github","component":"peribolos","level":"info","msg":"ListOrgMembers(kubernetes-incubator, member)","time":"2018-08-10T17:42:17-07:00"}
+{"component":"peribolos","level":"info","msg":"Skipping team and team member configuration","time":"2018-08-10T17:42:17-07:00"}
+{"client":"github","component":"peribolos","level":"info","msg":"GetOrg(kubernetes-retired)","time":"2018-08-10T17:42:17-07:00"}
+{"client":"github","component":"peribolos","level":"info","msg":"ListOrgInvitations(kubernetes-retired)","time":"2018-08-10T17:42:18-07:00"}
+{"client":"github","component":"peribolos","level":"info","msg":"ListOrgMembers(kubernetes-retired, admin)","time":"2018-08-10T17:42:18-07:00"}
+{"client":"github","component":"peribolos","level":"info","msg":"ListOrgMembers(kubernetes-retired, member)","time":"2018-08-10T17:42:18-07:00"}
+{"component":"peribolos","level":"info","msg":"Waiting for calebamiles to accept invitation to kubernetes-retired","time":"2018-08-10T17:42:18-07:00"}
+{"component":"peribolos","level":"info","msg":"Skip
